@@ -1,4 +1,9 @@
 # authoring
+[ ] External link
+[ ] Internal link
+[ ] Images 
+[ ] Emojis
+[ ] Tables 
 # Github Flavoured Markdown
 ## External linK
 [External link to github](https://www.codegrepper.com/code-examples/whatever/how+to+add++link+to+github+readme)
@@ -27,4 +32,5 @@
 [Go to Emojis](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Images-,Emojis,-Tables)
 
 [Go to table](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Emojis-,Tables,-Names)
+
 
