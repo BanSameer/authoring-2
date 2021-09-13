@@ -1,13 +1,4 @@
 # authoring
-[ ] External link
-
-[X] Internal link
-
-[] Images 
-
-[] Emojis
-
-[] Tables 
 
 # Github Flavoured Markdown
 ## External linK
@@ -38,4 +29,12 @@
 
 [Go to table](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Emojis-,Tables,-Names)
 
+[ ] External link
 
+[ ] Internal link
+
+[ ] Images 
+
+[ ] Emojis
+
+[ ] Tables 
