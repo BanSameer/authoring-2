@@ -19,7 +19,7 @@
 | Yohannes | Web Development |
 | Anderia | Web Development |
 
-[[Go to external link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Github%20Flavoured%20Markdown-,External%20linK,-External%20link%20to)
+[Go to external link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
 
 [Go to internal link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#internal-link)
 
