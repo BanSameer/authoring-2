@@ -16,5 +16,5 @@ Github Flavoured Markdown
 
 | Names  | Class  |
 | :-: | :-: |
-| Yohannes | DCI |
-| Andiria | DCI |
+| Yohannes | Web Development |
+| Andiria | Web Development |
