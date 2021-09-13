@@ -11,3 +11,4 @@ Github Flavoured Markdown
 [The link of the images](https://github.com/Yohannes-Habtemariam/authoring/tree/main/images)
 
 ![The image of the lion](https://github.com/Yohannes-Habtemariam/authoring/blob/main/lion.jpeg)
+:laughing:
