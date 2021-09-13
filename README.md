@@ -17,4 +17,4 @@ Github Flavoured Markdown
 | Names  | Class  |
 | :-: | :-: |
 | Yohannes | Web Development |
-| Andiria | Web Development |
+| Anderia | Web Development |
