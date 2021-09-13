@@ -1,9 +1,14 @@
 # authoring
 [ ] External link
+
 [ ] Internal link
+
 [ ] Images 
+
 [ ] Emojis
+
 [ ] Tables 
+
 # Github Flavoured Markdown
 ## External linK
 [External link to github](https://www.codegrepper.com/code-examples/whatever/how+to+add++link+to+github+readme)
