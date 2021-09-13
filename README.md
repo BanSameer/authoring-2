@@ -1,7 +1,7 @@
 # authoring
-[] External link
+[ ] External link
 
-[] Internal link
+[X] Internal link
 
 [] Images 
 
