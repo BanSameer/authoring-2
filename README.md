@@ -1,13 +1,13 @@
 # authoring
-[ ] External link
+[] External link
 
-[ ] Internal link
+[] Internal link
 
-[ ] Images 
+[] Images 
 
-[ ] Emojis
+[] Emojis
 
-[ ] Tables 
+[] Tables 
 
 # Github Flavoured Markdown
 ## External linK
