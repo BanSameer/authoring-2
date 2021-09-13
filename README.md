@@ -24,7 +24,7 @@
 
 [Go to images](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#images)
 
-[Go to Emojis](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#emojis)
+[Go to Emojis](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Images-,Emojis,-Tables)
 
 [Go to table](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#tables)
 
