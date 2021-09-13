@@ -14,7 +14,7 @@ Github Flavoured Markdown
 :laughing:
 
 
-| #Names  | #Class  |
+| Names  | Class  |
 | :-: | :-: |
 | Yohannes | DCI |
 | Andiria | DCI |
