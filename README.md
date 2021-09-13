@@ -1,6 +1,6 @@
 # authoring
 - Github Flavoured Markdown
-- [ ] External link
+- [ X ] External link
 - [ ] Internal link
 - [ ] Images
 - [ ] Emojis
