@@ -8,4 +8,4 @@ Github Flavoured Markdown
 
 [External link to github](https://www.codegrepper.com/code-examples/whatever/how+to+add++link+to+github+readme)
 
-![] (/home/user/Desktop/images/lion.jpeg)
+[The link of the images](https://github.com/Yohannes-Habtemariam/authoring/tree/main/images)
