@@ -14,4 +14,4 @@ Github Flavoured Markdown
 :laughing:
 
 |Names|Class|
-|...||...|
+|:...:||:...:|
