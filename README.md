@@ -1,5 +1,5 @@
 # authoring
-- Github Flavoured Markdown
+Github Flavoured Markdown
 - [ ] External link
 - [ ] Internal link
 - [ ] Images
