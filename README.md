@@ -35,6 +35,6 @@
 
 - [ ] Images 
 
-- [ ] Emojis
+- [ x ] Emojis
 
 - [ ] Tables 
