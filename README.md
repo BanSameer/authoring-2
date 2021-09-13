@@ -7,3 +7,5 @@ Github Flavoured Markdown
 - [ ] Tables
 
 [External link to github](https://www.codegrepper.com/code-examples/whatever/how+to+add++link+to+github+readme)
+
+![](/home/user/Desktop/images/lion.jpeg)
