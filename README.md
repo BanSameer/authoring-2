@@ -12,3 +12,5 @@ Github Flavoured Markdown
 
 ![The image of the lion](https://github.com/Yohannes-Habtemariam/authoring/blob/main/lion.jpeg)
 :laughing:
+|Names|Class|
+|...||...|
