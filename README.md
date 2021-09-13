@@ -29,12 +29,12 @@
 
 [Go to table](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#:~:text=Emojis-,Tables,-Names)
 
-- [ ] External link
+- [x] External link
 
-- [ ] Internal link
+- [x] Internal link
 
-- [ ] Images 
+- [x] Images 
 
-- [ ] Emojis
+- [x] Emojis
 
-- [ ] Tables 
+- [x] Tables 
