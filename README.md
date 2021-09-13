@@ -13,10 +13,14 @@
 :laughing:
 
 ## Tables
-
-[Go to external link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
-
 | Names  | Class  |
 | :-: | :-: |
 | Yohannes | Web Development |
 | Anderia | Web Development |
+
+[Go to external link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
+[Go to internal link](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
+[Go to images](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
+[Go to Emojis](https://github.com/Yohannes-Habtemariam/authoring/blob/main/README.md#external-link)
+
+
